@@ -35,7 +35,7 @@
   </properties>
   
   <build>
-    <finalName>${project.parent.artifactId}-${environment}</finalName>
+    <finalName>nagaraju</finalName>
     
     <resources>
       <resource>
